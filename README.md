@@ -10,5 +10,6 @@
  I resampled the data into daily observations and ran 90 day rolling windows to get the mean observations for each window.  Then, for each year I found the minimum and maximum date:value pairs for temperature high & lows, driest and wettest, and windest and calmest days.  With these I was able to create histograms and kernel density estimates for when the seasons have most often started.
  
  ## Results
- ![Results](https://github.com/angus-93/Season-Tracking/files/6725633/90_day_window_plot.pdf)
+![Results](https://user-images.githubusercontent.com/83808129/123626537-dcc26f00-d808-11eb-84ac-1bc112117741.jpg)
+
 
